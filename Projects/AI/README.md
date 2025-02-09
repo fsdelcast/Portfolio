@@ -1,0 +1,1 @@
+A sub-folder for each specific key project/assignment deliverable referenced in the paper. In each folder, a document file must be included that describes the files in the folder and how each may be reviewed (software required, etc.). Sub-folder naming will include course numbers in a specific format. It is expected that at least three projects will be included in the portfolio.
