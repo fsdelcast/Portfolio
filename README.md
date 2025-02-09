@@ -12,6 +12,7 @@ SUID: 425920951
 
 I have structured this respository in the following way:
 - **Paper:** In the paper folder you can see the final paper for the portfolio.
+- **Video Presentation:** The video presentation of the portfolio can be found in this folder. 
 - **Resume:** Here you will find the current professional resume. 
 - **Projects:** Here you will have the documents of each key project deliverable referenced in the paper.
     - *IST-691:_Deep_Learning:* This project leverages computer vission to create a "Sign Language to Speech Translator".
