@@ -1,0 +1,15 @@
+    .
+    ├── Paper
+    │   └── Paper.txt
+    ├── Projects
+    │   ├── AI
+    │   ├── IST-691:_Deep_Learning
+    │   └── Project_1.txt
+    ├── README.md
+    ├── Resume
+    │   └── Resume.pdf
+    ├── Video_Presentation
+    │   └── Video_presentation.txt
+    └── tree.txt
+    
+    6 directories, 6 files
